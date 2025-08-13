@@ -23,6 +23,8 @@ fi
 
 echo "monitoringgggg brr brrrrr................"
 
+#remember to add fun comments and echos, unless it is production
+
 
 
 tail -f "$LOG_FILE" | while read -r line; do 
