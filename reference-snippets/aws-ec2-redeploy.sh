@@ -1,3 +1,5 @@
+//this is simply for simple pm2 apps and nothing more, for more checkout ./_/)
+
 echo "redeploy applications running with pm2"
 
 
